@@ -1,0 +1,36 @@
+{
+  "case_id":"56763bf7-d046-4a54-a4a1-0728c724a092",
+  "household_composition": "two_adults_two_children",
+  "clients":[
+     {
+        "client_id":"be23f463-0eb9-47b6-9caf-98e9a0865b6d",
+        "details":{
+           "first_name":"Joe",
+           "last_name":"Bloggs",
+           "address":{
+              "address1":"1 High Street",
+              "posttown":"Nottingham",
+              "postcode":"NG1 2ET"
+           },
+           "dob":"1990/08/11",
+           "dependents":2,
+           "employment_status":"EMPLOYED"
+        }
+     },
+     {
+        "client_id":"be23f463-0eb9-47b6-9caf-98e9a0865b6d",
+        "details":{
+           "first_name":"Jane",
+           "last_name":"Bloggs",
+           "address":{
+              "address1":"1 High Street",
+              "posttown":"Nottingham",
+              "postcode":"NG1 2ET"
+           },
+           "dob":"1992/05/12",
+           "dependents":2,
+           "employment_status":"EMPLOYED"
+        }
+     }
+  ]
+}
